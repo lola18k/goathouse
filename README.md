@@ -12,16 +12,6 @@ Example prompts from `prompts.txt`:
 - Share your most embarrassing VRChat story.
 - And more...
 
-## How to Use
-
-1. Download or copy `prompts.txt`.
-2. Upload it to a file hosting service (recommended: Dropbox for easy sharing).
-3. Modify the share link to a direct download URL (e.g., replace `www.dropbox.com` with `dl.dropboxusercontent.com` and remove any `&dl=0` parameters).
-4. In your VRChat world (using the VRCSKD3-WORLD and UdonSharp assets), paste the URL into the `promptsLoadUrl` field in the BottleSpinner component inside the SpinTheBottle object.
-5. Load into the world to see the prompts in action.
-
-For full setup instructions, refer to the asset documentation from the VRC Creator Companion.
-
 ## Updates and Contributions
 
 To request updates, additions, or changes to `prompts.txt`, please use the Discord bot in our server. Direct pull requests or edits here may not be monitored—head to Discord for community-driven updates!
