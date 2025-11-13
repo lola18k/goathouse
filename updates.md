@@ -2,3 +2,7 @@
 ## 2025-11-13
 - **New prompt added:** "Drink 10 shots"
 - **Requested by:** .miao
+
+## 2025-11-13
+- **New prompt added:** "Drink 5 shots if your name is ArcherHD."
+- **Requested by:** .miao
