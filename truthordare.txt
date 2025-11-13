@@ -251,3 +251,5 @@ D: Whisper a secret to a person of your choice.
 D: Say one thing you like about each one player this room.
 D: Call your crush and confess your feelings while drinking.
 D: Take a shot without using your hands.
+
+T: I THINK ITS FIXED
