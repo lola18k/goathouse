@@ -34,3 +34,7 @@
 ## 2025-11-14
 - **New prompt added:** "D: Stay in the instance 1 more hour."
 - **Requested by:** .miao
+
+## 2025-11-14
+- **New prompt added:** "Take 2 or change to furry avatar."
+- **Requested by:** .miao
