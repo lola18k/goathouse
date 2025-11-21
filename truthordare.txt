@@ -148,6 +148,7 @@ T: Have you ever accidentally sent a text message to the wrong person?
 T: Who in this group do you think has the most annoying laugh?
 T: Have you ever accidentally called someone by the wrong name during sex?
 T: What secret about yourself did you tell someone in confidence and then they told a lot of other people?
+T: what was the past porno you watched
 D: Discord call someone random.
 D: Give a one-word “roast” to each other player.
 D: Narrate the game in a newscaster voice for three turns.
@@ -172,6 +173,7 @@ D: Call someone daddy/mommmy when you talk to them until done playing.
 D: Give someone in this room a lapdance.
 D: Take a selfie with someone in this room and send it to the person you last messaged and say "We just ERP'd!"
 D: Hug someone in this room.
+D: Give someone in this room a lapdance.
 D: Give out 5 sips.
 D: Pick a partner. From now on both of you have to do all the dares together.
 D: Yell out the first word that comes to your mind. 
@@ -221,6 +223,7 @@ D: Have one player sit on another player's lap for the rest of the game.
 D: Get rid of a piece of clothing for 2 rounds.
 D: Kiss a person. Long and gentle.
 D: Kiss the least attractive player.
+D: Get rid of a piece of clothing
 D: Lick across a players face. Group Decides.
 D: Roast someone in this room.
 D: Sniff someone in this room and say "mmm yes mommy/daddy"
@@ -230,14 +233,16 @@ D: Do karaoke to a song of the group’s choosing.
 D: Find your very first crush on social and DM them.
 D: Message an ex of your choice and tell them "I miss you :c"
 D: Describe the most attractive quality of every person in the room.
-D: Go into 7 minutes in heaven with a player of your choice.
+D: Go into 7 minutes in the font bedroom with a player of your choice.
 D: Serenade the person left of you.
+D: touch your self until your next round.
 D: Read alout the most personal text you've sent in recent days.
 D: Eat a spoonful of hot sauce.
 D: Put an ice cube down your shirt and keep it there for 1 minute.
 D: Do an impression of someone in the room.
 D: Pick 2 people to become Dare buddies with each other.
 D: Pick 2 people to take 2 shots.
+D: Slow dance naked with a player.
 D: Change your discord status to "Its my birthday!" for 4 hours.
 D: Write a poem about a toilet
 D: Tell a story using only three words at a time. 
@@ -253,3 +258,4 @@ D: Call your crush and confess your feelings while drinking.
 D: Take a shot without using your hands.
 
 D: Stay in the instance 1 more hour.
+D: Do 25 push.
