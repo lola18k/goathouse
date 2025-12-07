@@ -1,10 +1,6 @@
-T: Have you ever lied to your best friend?
+T: What’s your favorite type of porn?
 T: What is the most embarrassing thing that has ever happened to you?
-T: What is your biggest fear?
-T: What is the most embarrassing thing you’ve ever done?
 T: What’s a secret you’ve never told anyone?
-T: What is your biggest fantasy? 
-T: When was the last time you cried? 
 T: {currentPlayer}, what's your first impression of {player}?
 T: If you had to be handcuffed to {player} for a day, how would you spend it?
 T: What's one thing you admire about {player} and one thing that drives you crazy?
@@ -12,244 +8,128 @@ T: If {player} was a superhero, what would their superpower be and why?
 T: {currentPlayer}, if you could trade lives with {player} for a day, would you? Why or why not?
 T: What's the funniest thing you've seen {player} do?
 T: If {player} was an animal, what animal do you think they would be and why?
-T: {currentPlayer}, if you and {player} were the last two people on Earth, what's the first thing you'd do together?
-T: What's one piece of advice you'd like to give to {player}?
-T: If you could change one thing about {player}, what would it be?
-T: What is the biggest lie you’ve ever told? 
-T: What is the most embarrassing photo of you? 
 T: What would you do if you were the opposite gender for a week? 
 T: What do most people assume about you that isn’t true?
-T: What are your thoughts on reincarnation?
-T: What is the stupidest thing you ever did as a teenager?  
 T: Have you ever broken the law? 
-T: What’s your biggest regret? 
-T: Who do you have a crush on?
 T: What was the most awkward date you ever went on?
-T: What is one item you hope nobody ever finds in your room?
-T: Have you ever stolen something?
-T: Have you ever cheated on an exam?
-T: Tell the story of the drunkest you’ve ever been.
 T: How old were you when you first tried alcohol?
 T: What is the silliest thing you feel emotionally attached to?
-T: What is the biggest mistake you’ve ever made?
-T: Have you ever played hooky at work?
-T: Have you ever lied to get out of an awkward date?
 T: Who is the best-looking person here?
 T: Who is the funniest person here?
-T: What is the scariest nightmare you’ve ever had?
-T: When was the most inappropriate time you farted in public?
 T: What is the worst joke you’ve played on someone?
-T: What is the worst prank that someone played on you?
 T: If you starred in a romance movie, what would it be like?
-T: What is the most embarrassing thing you’ve posted on social media?
 T: What is your favorite thing that your significant other does for you?
-T: Tell us something you don’t want us to know.
 T: Have you ever ERP'd?
 T: What do you hope your parents never find out about?
 T: What is the strangest dream you’ve ever had?
-T: Who was the last person you searched on Instagram?
 T: How old were you when you had your first kiss?
-T: Who was your first kiss?
-T: Why did you break up with your last boyfriend/girlfriend?
 T: Have you ever shared a secret you weren’t supposed to tell?
 T: Who do you like the least in this room?
-T: What do you think about Questies?
+T: What do you think about Quigger?
 T: What should VRChat improve?
 T: Do you secretly have a crush on someone here?
 T: Explain how you got your username.
-T: Whats your worst drunk story?
-T: Have you ever done drugs? If so what?
 T: Fast forward one year. Who here would you most likely still be friends with?
 T: Who is the most sassy here?
-T: When was the last time you cried?
 T: What game does everyone need to play once?
 T: Have you ever ERP'd with someone in this room?
 T: Have you ever been cheated on or cheated?
 T: Reveal your weirdest fetish
 T: What celebrity would you hate to see naked?
 T: Have you ever tasted your own cum?
-T: What is the longest you've gone without showering?
-T: What is your worst bad habit?
 T: Have you ever been caught in the act?
-T: Who would you like to kiss in this room?
 T: Do you prefer cats or dogs?
-T: Have you ever taken nudes of yourself?
 T: What upcoming game are you hyped about?
-T: Do you have a NSFW avatar?
-T: Tell us about your first kiss.
-T: When did you loose your virginity?
 T: Are you jealous as a BF/GF?
 T: What is your favorite anime?
 T: What are you drinking right now?
-T: Would you go on a VRC date with someone in here?
 T: Have you ever had a VRC Wedding?
-T: What do you value the most - money, fame, success, friends, family, etc?
 T: What's your dream job?
-T: What's your biggest regret?
 T: Have you ever ghosted someone? If so why?
-T: When was the last time you lied?
 T: What was your favorite childhood show?
-T: Who do you text the most?
-T: What's and instant deal breaker in a potential love interest?
 T: What's your favorite part of your body?
 T: Tell us about your last wet dream.
-T: What is your biggest insecurity?
 T: Do you pee in the shower?
-T: Do you still have feelings for your exes?
 T: Have you ever sent a sext?
 T: Have you ever had phone sex?
 T: What's the weirdest place you have had sex?
 T: What gross smell do you actually enjoy?
 T: Do you believe in aliens?
-T: Where do you see yourself in 10 years?
 T: Who would you choose for a threesome in this room?
 T: What's one thing you can't live without?
-T: What's the worst thing you've ever done?
-T: What is the biggest thing you've gotten away with?
-T: Why did you break up with your last boyfriend/girlfriend?
 T: Do you have a hidden talent?
-T: What is the stupidest thing you have ever done?
-T: What's the worst thing you've ever said to anyone?
-T: Who have you loved but they didn't love you back?
 T: Who is the person you most regret kissing?
 T: Have you ever eaten ass?
 T: What's your biggest fantasy?
 T: What is the naughtiest thing you have done in public?
 T: Who has the hotest voice here?
-T: What's the worst thing you've ever done at work?
 T: What's your favorite VRchat world?
-T: What's something you're glad your parents doesn't know about you?
 T: Who has the worst looking avatar in this room?
-T: Name someone you’ve pretended to like but actually couldn’t stand
 T: Does size reall matter?
 T: Whats your biggest turn on?
 T: What's your biggest turn off?
-T: How many exes are you still friends with?
-T: What's the most annoying thing about yourself?
 T: Have you ever woken up not remembering what happened the night before?
 T: Have you ever hooked up with someone you didn't know their name?
 T: Have you ever lied about your age to buy alcohol?
-T: Have you ever had a one night stand?
 T: Have you ever gotten into a fight while drinking?
 T: Have you ever peed in public while drunk?
-T: Have you ever texted an ex while drunk?
 T: Have you ever thrown up from drinking too much?
 T: Have you ever gotten stuck in a piece of clothing?
-T: What is the weirdest dream you have ever had?
 T: Have you ever walked into the wrong bathroom by mistake?
 T: Have you ever talked to yourself out loud in public?
 T: Which player here do you think has the worst taste in music?
-T: Who in this group would you never date and why?
 T: What is the worst haircut you have ever had?
-T: Have you ever fallen asleep in an inappropriate place?
 T: What is the most embarrassing thing in your browser history?
-T: Ask the person who has known you the longest to share their first impression of you.
 T: Have you ever accidentally sent a text message to the wrong person?
-T: Who in this group do you think has the most annoying laugh?
 T: Have you ever accidentally called someone by the wrong name during sex?
-T: What secret about yourself did you tell someone in confidence and then they told a lot of other people?
 D: Discord call someone random.
-D: Give a one-word “roast” to each other player.
 D: Narrate the game in a newscaster voice for three turns.
 D: Try to drink a glass of water without using your hands.
 D: Sing instead of speaking any time you talk for three turns.
-D: Show the group your internet search history.
+D: Post group in the gout house discord your internet search history.
 D: How old are you? Whatever your age is, take that many sips.
 D: Read out your last dirty text you sent.
-D: Try to juggle 3 things of the group's choice.
-D: Repeat everything the person on your right is saying until its your turn again.
 D: Do your best sexy crawl.
-D: Twerk for a minute.
-D: Have the group decide on a dare for you to complete.
-D: Hold your drink with two hands for the rest of the evening.
-D: Give a personalised insult to everyone in the room.
+D: Hold your drink with two hands for the rest of the turn.
 D: For the next 10 minutes, every time someone asks you something, respond with a bark.
-D: Update your VRC Status to "I want to erp, join me".
+D: Update your VRC Status to "I want to erp".
 D: Show the group your best dance moves.
 D: Choose a drinking buddy. Everytime either of you has to drink, both of you drink.
-D: Only whisper when you talk until your next turn.
 D: Call someone daddy/mommmy when you talk to them until done playing.
 D: Give someone in this room a lapdance.
-D: Take a selfie with someone in this room and send it to the person you last messaged and say "We just ERP'd!"
 D: Hug someone in this room.
-D: Give out 5 sips.
-D: Pick a partner. From now on both of you have to do all the dares together.
-D: Yell out the first word that comes to your mind. 
-D: Hold your nose while you sing the chorus of your favorite song.
-D: Argue with a wall and pretend like it talks back for one minute.
+D: Give out 5 drinks.
 D: Quack like a duck until your next turn.
-D: Call your dad and say you got engaged.
-D: Dance for 30 seconds to a Snoop Dogg song.
-D: Close your eyes until your next turn.
-D: Take a shot. 
-D: Perform a seductive dance in front of the group.
-D: Tell us the one bedtime secret no one knows about you.
+D: Every one Take a shot. 
 D: Sit on a persons lap. Group decides.
-D: Give a foot massage to the person on your right.
 D: Fuck,Marry,Kill
-D: Send the most embarrassing photo on your phone.
-D: Read the last message in your dm. 
-D: Pretend to be the person to your left until your next turn.
-D: Do your best impersonation of the person to your right.
-D: Crawl around the room. 
-D: Howl like a wolf at the moon.
-D: Curse like a sailor for 30 seconds straight. 
+D: Send the most embarrassing photo in the goat house discord on your phone.
+D: Do your best impersonation of the person to your right. 
+D: Howl like a wolf at the moon. 
 D: Invite a random on your friends list.
-D: Pick someone to plan a VRC Date with.
 D: Group decides your new VRC Status.
 D: Kiss someone in the group.
 D: Dance like a chicken for the next 30 seconds.
 D: Step on a player of your choice.
 D: Finish your drink.
-D: Do 5 jumping jacks.
-D: Let the group decide what to text to the last person you messaged.
 D: Change into a meme avatar.
 D: Be a players pet until your next turn. Group decides.
-D: Most awkward spot where you got a blowjob.
-D: Have one player give another player a lap dance.
+D: Most awkward spot where you got/give a blowjob.
 D: Give {player} your best compliment in a funny accent.
-D: Let {player} style your hair however they want for the next 10 minutes.
-D: Do your best impression of {player} for 30 seconds.
-D: Have a staring contest with {player}. First to blink loses!
-D: Let {player} draw something on your face with a washable marker.
-D: Perform a 30-second interpretive dance about {player}'s life.
+D: Do your best impression of {player} for one turn
+D: Have a staring contest with {player}. First to drink loses!
 D: Try to make {player} laugh without touching them or saying anything.
-D: Act out a scene from a movie with {player}, but don't tell them what movie it is. Let others guess!
-D: Swap an item of clothing with {player} for the next 10 minutes.
-D: Create and perform a short rap about {player}'s best qualities.
-D: Have one player sit on another player's lap for the rest of the game.
-D: Get rid of a piece of clothing for 2 rounds.
+D: Get rid of a piece of clothing.
 D: Kiss a person. Long and gentle.
-D: Kiss the least attractive player.
 D: Lick across a players face. Group Decides.
-D: Roast someone in this room.
-D: Sniff someone in this room and say "mmm yes mommy/daddy"
-D: Send a heart emoji to your crush on discord.
-D: In the next 10 minutes, find a way to scare another player and make it a surprise.
+D: Sniff someone in this room and say "mmm yes mommy"
 D: Do karaoke to a song of the group’s choosing.
-D: Find your very first crush on social and DM them.
-D: Message an ex of your choice and tell them "I miss you :c"
-D: Describe the most attractive quality of every person in the room.
-D: Go into 7 minutes in heaven with a player of your choice.
-D: Serenade the person left of you.
-D: Read alout the most personal text you've sent in recent days.
+D: Go into 7 minutes in the frony room with a player Group Decides.
 D: Eat a spoonful of hot sauce.
-D: Put an ice cube down your shirt and keep it there for 1 minute.
-D: Do an impression of someone in the room.
-D: Pick 2 people to become Dare buddies with each other.
-D: Pick 2 people to take 2 shots.
 D: Change your discord status to "Its my birthday!" for 4 hours.
-D: Write a poem about a toilet
 D: Tell a story using only three words at a time. 
-D: Recite the alphabet backwards.
 D. Say something dirty to the person on your right.
 D: Say something dirty to the person on your left.
 D: Get slapped by the person of your choosing.
 D: Switch avatars with someone in this room.
-D: Call the 3rd recent person in your dm and sing 20 seconds of a song to them. No talking.
-D: Whisper a secret to a person of your choice.
-D: Say one thing you like about each one player this room.
-D: Call your crush and confess your feelings while drinking.
 D: Take a shot without using your hands.
-
-D: Stay in the instance 1 more hour.
